@@ -1,0 +1,302 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Codestar Framework\n"
+"POT-Creation-Date: 2019-06-19 22:36+0800\n"
+"PO-Revision-Date: 2019-06-19 22:58+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: codestar-framework.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: classes/metabox.class.php:227 classes/options.class.php:669
+msgid "No option provided by developer."
+msgstr "开发者没有提供选项。"
+
+#: classes/metabox.class.php:245
+msgid "Restore"
+msgstr "还原"
+
+#: classes/metabox.class.php:246
+msgid "update post for restore "
+msgstr "为还原更新日志"
+
+#: classes/metabox.class.php:246
+msgid "Cancel"
+msgstr "取消"
+
+#: classes/options.class.php:232 classes/options.class.php:388
+#: functions/actions.php:43 functions/actions.php:103 functions/actions.php:125
+msgid "Error while saving."
+msgstr "保存时出错。"
+
+#: classes/options.class.php:278
+msgid "Success. Imported backup options."
+msgstr "导入备份选项.成功"
+
+#: classes/options.class.php:300
+msgid "Default options restored."
+msgstr "已还原默认选项。"
+
+#: classes/options.class.php:326
+msgid "Default options restored for only this section."
+msgstr "仅还原此分区的默认选项。"
+
+#: classes/options.class.php:384
+msgid "Settings saved."
+msgstr "设置已保存。"
+
+#: classes/options.class.php:569
+msgid "show all options"
+msgstr "显示所有选项"
+
+#: classes/options.class.php:571
+msgid "Search option(s)"
+msgstr "搜索选项"
+
+#: classes/options.class.php:574 classes/options.class.php:693
+msgid "Save"
+msgstr "保存"
+
+#: classes/options.class.php:574 classes/options.class.php:693
+msgid "Saving..."
+msgstr "保存中..."
+
+#: classes/options.class.php:575 classes/options.class.php:694
+msgid "Reset Section"
+msgstr "部分重置"
+
+#: classes/options.class.php:576 classes/options.class.php:695
+#: fields/backup/backup.php:34
+msgid "Reset All"
+msgstr "全部重置"
+
+#: classes/setup.class.php:372
+#, php-format
+msgid "Ooops! This field type (%s) can not be used here, yet."
+msgstr "哎呀！此字段类型（%s）还不能在此处使用。"
+
+#: classes/setup.class.php:415
+msgid "This field class is not available!"
+msgstr "此字段类不可用！"
+
+#: classes/setup.class.php:419
+msgid "This type is not found!"
+msgstr "找不到此类型！"
+
+#: classes/shortcoder.class.php:223
+msgid "Add one more"
+msgstr "添加新的"
+
+#: classes/shortcoder.class.php:257
+msgid "Security check"
+msgstr "安全检查"
+
+#: fields/background/background.php:34
+msgid "No background selected"
+msgstr "未选择背景"
+
+#: fields/backup/backup.php:26
+msgid "Import"
+msgstr "导入"
+
+#: fields/backup/backup.php:27
+msgid "copy-paste your backup string here"
+msgstr "将备份数据粘贴在此处"
+
+#: fields/backup/backup.php:31
+msgid "Export and Download Backup"
+msgstr "导出并下载备份"
+
+#: fields/backup/backup.php:35
+msgid "Please be sure for reset all of options."
+msgstr "请确认是否要重置所有选项"
+
+#: fields/gallery/gallery.php:20
+msgid "Add Gallery"
+msgstr "添加相册"
+
+#: fields/gallery/gallery.php:21
+msgid "Edit Gallery"
+msgstr "编辑相册"
+
+#: fields/gallery/gallery.php:22
+msgid "Clear"
+msgstr "清除"
+
+#: fields/group/group.php:23
+msgid "Add New"
+msgstr "添加"
+
+#: fields/group/group.php:24 fields/icon/icon.php:21
+msgid "Remove Icon"
+msgstr "删除图标"
+
+#: fields/group/group.php:61 fields/media/media.php:24
+#: fields/upload/upload.php:22
+msgid "Remove"
+msgstr "删除"
+
+#: fields/group/group.php:119 fields/repeater/repeater.php:98
+msgid "You can not add more than"
+msgstr "不能添加超过"
+
+#: fields/group/group.php:120 fields/repeater/repeater.php:99
+msgid "You can not remove less than"
+msgstr "不能删除少于"
+
+#: fields/icon/icon.php:20 functions/actions.php:147
+msgid "Add Icon"
+msgstr "添加图标"
+
+#: fields/media/media.php:23 fields/upload/upload.php:21
+msgid "Upload"
+msgstr "上传"
+
+#: fields/media/media.php:46
+msgid "No media selected"
+msgstr "未选择媒体"
+
+#: fields/select/select.php:72
+msgid "No data provided for this option type."
+msgstr "没有为此选项类型提供数据。"
+
+#: fields/sorter/sorter.php:21
+msgid "Enabled"
+msgstr "启用"
+
+#: fields/sorter/sorter.php:22
+msgid "Disabled"
+msgstr "禁用"
+
+#: fields/textarea/textarea.php:37
+msgid "Add Shortcode"
+msgstr "添加短代码"
+
+#: fields/typography/typography.php:82
+msgid "Font Family"
+msgstr "字体"
+
+#: fields/typography/typography.php:83
+msgid "Select a font"
+msgstr "选择字体"
+
+#: fields/typography/typography.php:91
+msgid "Backup Font Family"
+msgstr "备份字体"
+
+#: fields/typography/typography.php:105 fields/typography/typography.php:118
+#: fields/typography/typography.php:131 fields/typography/typography.php:146
+#: fields/typography/typography.php:162 fields/typography/typography.php:175
+#: fields/typography/typography.php:189 fields/typography/typography.php:207
+msgid "Default"
+msgstr "默认"
+
+#: fields/typography/typography.php:116
+msgid "Font Style"
+msgstr "字体"
+
+#: fields/typography/typography.php:130 fields/typography/typography.php:131
+msgid "Load Extra Styles"
+msgstr "加载额外样式"
+
+#: fields/typography/typography.php:144
+msgid "Subset"
+msgstr "子选项"
+
+#: fields/typography/typography.php:154
+msgid "Text Align"
+msgstr "文本对齐"
+
+#: fields/typography/typography.php:170
+msgid "Font Variant"
+msgstr "字体类型"
+
+#: fields/typography/typography.php:183
+msgid "Text Transform"
+msgstr "文本转换"
+
+#: fields/typography/typography.php:197
+msgid "Text Decoration"
+msgstr "文字样式"
+
+#: fields/typography/typography.php:219
+msgid "Font Size"
+msgstr "字体大小"
+
+#: fields/typography/typography.php:231
+msgid "Line Height"
+msgstr "行高"
+
+#: fields/typography/typography.php:243
+msgid "Letter Spacing"
+msgstr "字母间距"
+
+#: fields/typography/typography.php:255
+msgid "Word Spacing"
+msgstr "字间距"
+
+#: fields/typography/typography.php:269
+msgid "Font Color"
+msgstr "字体颜色"
+
+#: fields/typography/typography.php:280
+msgid "Custom Style"
+msgstr "自定义样式"
+
+#: functions/actions.php:35
+msgid "No data provided by developer"
+msgstr "开发人员未提供数据"
+
+#: functions/actions.php:151
+msgid "Search a Icon..."
+msgstr "搜索图标…"
+
+#: functions/validate.php:14 functions/validate.php:86
+msgid "Please write a valid email address!"
+msgstr "请填写一个有效的电子邮件地址！"
+
+#: functions/validate.php:32 functions/validate.php:106
+msgid "Please write a numeric data!"
+msgstr "请填写有效数字！"
+
+#: functions/validate.php:50 functions/validate.php:126
+msgid "Fatal Error! This field is required!"
+msgstr "致命错误！此字段必填！"
+
+#: functions/validate.php:68 functions/validate.php:146
+msgid "Please write a valid url!"
+msgstr "请填写有效网址！"
+
+#. Plugin Name of the plugin/theme
+msgid "Codestar Framework"
+msgstr "CS"
+
+#. Plugin URI of the plugin/theme
+msgid "http://codestarframework.com/"
+msgstr "http://codestarframework.com/"
+
+#. Description of the plugin/theme
+msgid ""
+"A Simple and Lightweight WordPress Option Framework for Themes and Plugins"
+msgstr "一个简单而轻量级的主题和插件WordPress选项框架"
+
+#. Author of the plugin/theme
+msgid "Codestar"
+msgstr "CS"
+
+#. Author URI of the plugin/theme
+msgid "http://codestarthemes.com/"
+msgstr "http://codestarthemes.com/"
