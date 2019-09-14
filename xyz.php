@@ -6,7 +6,7 @@
  * Description: JOYtheme 推出的 WordPress 整合型插件, .
  * Author: JOYtheme
  * Author URI: https://www.joytheme.com/
- * Version: 0.0.1
+ * Version: 0.0.3
  */
 
 define('XYZ_PLUGIN_FILE', __FILE__);
